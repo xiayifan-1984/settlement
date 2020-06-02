@@ -1,0 +1,19 @@
+                                            结算单 Settlement Statement                                                
+
+账户：0009
+日期：20191217
+                                                 资金状况 Account Summary                                  币种：人民币
+-----------------------------------------------------------------------------------------------------------------------
+上次结算资金 Balance b/f：         7586341.42                  交割手续费 Delivery Fee：                0.00
+出入金 Deposit/Withdraw：                0.00                  期末结存 Balance c/f：             7586341.42
+平仓盈亏 Realized P/L：                  0.00                  保证金占用 Margin Occupied：             0.00
+持仓盈亏  MTM P/L：                      0.00                  可用资金 Fund Avail.：             7586341.42
+手续费 Commission：                      0.00                  风险度 Risk Degree：                    0.00%
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+如果下一交易日开市前不提出书面异议，贵方视为确认。
+
+If you have any question with the settlement statement, please do consult with the Settlement Department of our company.
+
